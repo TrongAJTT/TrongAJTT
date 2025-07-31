@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋, TrongAJTT here</h1>
 <h3 align="center">A fledgling developer who loves to bring flavor to your palate.</h3>
+<h4 align="center">I love open-source projects, and a lot of my personal projects are open-source, too.</h4>
 
-- 💻 I love open-source projects, and a lot of my personal projects are open-source, too.
+## 👤 About me
 - ✉️ You can contact me at [trong.ajtt.dev@gmail.com](mailto:trong.ajtt.dev@gmail.com)
 - 🚀 I'm currently working on [SETPocket](http://github.com/TrongAJTT/SETPocket/)
 - 📜 The programming languages I know are: Html, Css, Javascript, Python, Java, C#, Dart.
@@ -10,7 +11,13 @@
 - 🧠 Languages and frameworks I am learning and will learn: ReactJS, NodeJS, Game development (Unity), ReactNative, and Go.
 - 🙏 My back hurts so much, does yours? Thanks Mr. Salonpas for accompanying my back.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongajtt)](https://github.com/anuraghazra/github-readme-stats)
+## ✨ You might be interested in
+- 🛠️ [SETPocket](http://github.com/TrongAJTT/SETPocket/) is an application that combines a variety of tools to help you in your daily life. The app is currently available on both Android and Windows, offering you tools for things like Random, Calculations, Data Conversion, wireless data transfer on a local network, and many more functions to come in the future. It's still incomplete in many ways. I'll release it as soon as it's ready.
+- 🛢 You are running a quick project for your subject at school but not sure how to implement the database? Check out my PostgreSQL database library at the [postgres-database-library](https://github.com/TrongAJTT/postgres-database-library) repository to see if your use case is already there.
+
+## 📊 Status
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongajtt)](https://github.com/anuraghazra/github-readme-stats)<br>
+PS: What a poor stat!
 
 ---
 
