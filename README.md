@@ -12,6 +12,7 @@
 - 🙏 My back hurts so much, does yours? Thanks Mr. Salonpas for accompanying my back.
 
 ## ✨ You might be interested in
+- 🖧 [P2Lan Transfer](https://github.com/TrongAJTT/p2lan-transfer) is a simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms.
 - 🛠️ [SETPocket](http://github.com/TrongAJTT/SETPocket/) is an application that combines a variety of tools to help you in your daily life. The app is currently available on both Android and Windows, offering you tools for things like Random, Calculations, Data Conversion, wireless data transfer on a local network, and many more functions to come in the future. It's still incomplete in many ways. I'll release it as soon as it's ready.
 - 🛢 You are running a quick project for your subject at school but not sure how to implement the database? Check out my PostgreSQL database library at the [postgres-database-library](https://github.com/TrongAJTT/postgres-database-library) repository to see if your use case is already there.
 
