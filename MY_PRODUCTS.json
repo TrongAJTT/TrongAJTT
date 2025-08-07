@@ -1,0 +1,14 @@
+[
+  {
+    "code": "p2lan_transfer",
+    "name": "P2Lan Transfer",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/p2lan-transfer/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms."
+  },
+  {
+    "code": "random_please",
+    "name": "Random Please",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/random-please/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform generator application that helps you randomize data easily, conveniently, and at no cost."
+  }
+]
