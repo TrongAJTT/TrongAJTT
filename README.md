@@ -3,18 +3,27 @@
 <h4 align="center">I love open-source projects, and a lot of my personal projects are open-source, too.</h4>
 
 ## 👤 About me
-- ✉️ You can contact me at [trong.ajtt.dev@gmail.com](mailto:trong.ajtt.dev@gmail.com)
-- 🚀 I'm currently working on [SETPocket](http://github.com/TrongAJTT/SETPocket/)
+- 👋 I’m TrongAJTT (real name: Dang Van Trong), a junior developer starting my journey in programming.
+- ✉️ You can contact me at [trong.ajtt.dev@gmail.com](mailto:trong.ajtt.dev@gmail.com).
+- 🚀 My focus is on being a cross-platform developer, working with the Flutter framework.
+- 📚 I’m currently learning React, and from there, moving on to React Native.
+- 🚀 I'm currently working on [P2Lan Transfer](https://github.com/TrongAJTT/p2lan-transfer) and [Random Please](https://github.com/TrongAJTT/random-please).
 - 📜 The programming languages I know are: Html, Css, Javascript, Python, Java, C#, Dart.
 - 👨🏽‍💻 I can program: Web Backend (Java Spring), Windows applications (Winforms),  Android (Native - Java), and Flutter.
 - 👉 I am confident in programming: Windows applications (Winforms) and Flutter.
-- 🧠 Languages and frameworks I am learning and will learn: ReactJS, NodeJS, Game development (Unity), ReactNative, and Go.
+- 🧠 Side languages and frameworks that I am learning and will learn: ReactJS, NodeJS, Game development (Unity), ReactNative, and Go.
 - 🙏 My back hurts so much, does yours? Thanks Mr. Salonpas for accompanying my back.
 
 ## ✨ You might be interested in
 - 🖧 [P2Lan Transfer](https://github.com/TrongAJTT/p2lan-transfer) is a simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms.
-- 🛠️ [SETPocket](http://github.com/TrongAJTT/SETPocket/) is an application that combines a variety of tools to help you in your daily life. The app is currently available on both Android and Windows, offering you tools for things like Random, Calculations, Data Conversion, wireless data transfer on a local network, and many more functions to come in the future. It's still incomplete in many ways. I'll release it as soon as it's ready.
-- 🛢 You are running a quick project for your subject at school but not sure how to implement the database? Check out my PostgreSQL database library at the [postgres-database-library](https://github.com/TrongAJTT/postgres-database-library) repository to see if your use case is already there.
+- 🎲 [Random Please](https://github.com/TrongAJTT/random-please) is a A comprehensive collection of random generators and utilities for daily use - from secure password generation to mathematical calculations and unit conversions.
+- 🛢 [Postgres Database Library](https://github.com/TrongAJTT/postgres-database-library) is a small PostgreSQL database library. You are running a quick project for your subject at school but not sure how to implement the database? Check out this repo to see if your use case is already there.
+
+## 📚 Case study projects
+- 🛒 [Winforms DesignPatterns eShop](https://github.com/TrongAJTT/Winforms-DesignPatterns-eShop) is a case study project which primarily focuses on demonstrating and integrating various design patterns. It's a work-in-progress WinForms e-shop management application.
+
+## 🛑 Discontinued projects
+- 🛠️ [SETPocket](http://github.com/TrongAJTT/SETPocket/) is an application that combines a variety of tools to help you in your daily life. The app is currently available on both Android and Windows, offering you tools for things like Random, Calculations, Data Conversion, wireless data transfer on a local network, and many more functions to come in the future.
 
 ## 📊 Status
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trongajtt)](https://github.com/anuraghazra/github-readme-stats)<br>
