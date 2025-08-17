@@ -10,7 +10,14 @@
     "code": "random_please",
     "name": "Random Please",
     "logo": "https://raw.githubusercontent.com/TrongAJTT/random-please/refs/heads/main/assets/app_icon.png",
-    "desc": "A simple cross-platform generator application that helps you randomize data easily, conveniently, and at no cost.",
+    "desc": "A simple cross-platform generator application that helps you randomize data easily and conveniently.",
     "link": "https://trongajtt.github.io/random-please/"
+  },
+  {
+    "code": "unit_converters",
+    "name": "Unit Converters",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/unit-converters/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform converter application that helps you convert units fast, conveniently, and at no cost.",
+    "link": "https://trongajtt.github.io/unit-converters/"
   }
 ]

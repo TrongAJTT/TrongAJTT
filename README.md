@@ -16,7 +16,8 @@
 
 ## ✨ You might be interested in
 - 🖧 [P2Lan Transfer](https://github.com/TrongAJTT/p2lan-transfer) is a simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms.
-- 🎲 [Random Please](https://github.com/TrongAJTT/random-please) is a A comprehensive collection of random generators and utilities for daily use - from secure password generation to mathematical calculations and unit conversions.
+- 🎲 [Random Please](https://github.com/TrongAJTT/random-please) is a comprehensive collection of random generators and utilities for daily use – from secure password generation to mathematical calculations and unit conversions.
+- 🔄 [Unit Converters](https://github.com/TrongAJTT/unit-converters) is a versatile tool featuring 10 different random generators and supporting conversions for up to 100 units across various categories. Whether you need to convert length, weight, temperature, or more, this app has you covered.
 - 🛢 [Postgres Database Library](https://github.com/TrongAJTT/postgres-database-library) is a small PostgreSQL database library. You are running a quick project for your subject at school but not sure how to implement the database? Check out this repo to see if your use case is already there.
 
 ## 📚 Case study projects
