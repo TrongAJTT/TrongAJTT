@@ -1,0 +1,47 @@
+[
+  {
+    "code": "p2lan-transfer",
+    "name": "P2Lan Transfer",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/p2lan-transfer/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms.",
+	  "technologies": ["Flutter", "Dart", "Cross-platform", "File Transfer"],
+    "github": "https://trongajtt.github.io/p2lan-transfer/",
+	  "status": "active"
+  },
+  {
+    "code": "random-please",
+    "name": "Random Please",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/random-please/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform generator application that helps you randomize data easily and conveniently.",
+	  "technologies": ["Flutter", "Dart", "Random Generators", "Utilities"],
+    "github": "https://trongajtt.github.io/random-please/",
+	  "status": "active"
+  },
+  {
+    "code": "unit-converters",
+    "name": "Unit Converters",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/unit-converters/refs/heads/main/assets/app_icon.png",
+    "desc": "A simple cross-platform converter application that helps you convert units fast, conveniently, and at no cost.",
+	  "technologies": ["Flutter", "Dart", "Unit Conversion", "Mobile App"],
+    "github": "https://trongajtt.github.io/unit-converters/",
+	  "status": "active"
+  },
+  {
+	  "code": "winforms-designpatterns-eshop",
+    "name": "Winforms DesignPatterns eShop",
+    "logo": "🛒",
+    "desc": "A case study project which primarily focuses on demonstrating and integrating various design patterns. It's a work-in-progress WinForms e-shop management application.",
+	  "technologies": ["C#", "WinForms", "Design Patterns", "Case Study"],
+    "github": "https://github.com/TrongAJTT/Winforms-DesignPatterns-eShop",
+	  "status": "case-study"
+  },
+  {
+	  "code": "setpocket",
+    "name": "SETPocket",
+    "logo": "https://raw.githubusercontent.com/TrongAJTT/SETPocket/refs/heads/main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "desc": "A case study project which primarily focuses on demonstrating and integrating various design patterns. It's a work-in-progress WinForms e-shop management application.",
+	  "technologies": ["Flutter", "Android", "Windows", "Multi-tool"],
+    "github": "https://github.com/TrongAJTT/setpocket",
+	  "status": "discontinued"
+  }
+]
