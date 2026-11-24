@@ -1,60 +1,87 @@
-<!-- <h1 align="center">Hi there 👋, TrongAJTT here</h1> -->
-
 <div align="center">
-  <h3>A fledgling developer who loves to bring flavor to your palate.</h3>
-  <h4>I love open-source projects, and a lot of my personal projects are open-source, too.</h4>
-  <a href="https://www.trongajtt.com" class="mergin-right:50px">
-    <img src="https://img.shields.io/badge/WEBSITE-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" height="28">
-  </a>
-  <a href="https://portfolio.trongajtt.com">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=briefcase&logoColor=white" alt="Portfolio" height="28">
-  </a>
+  <h1>Hi, I'm TrongAJTT (Dang Van Trong)</h1>
+  <p>
+    <strong>Software Engineer</strong> · Building calm, local-first web tools, browser extensions, and cross-platform apps.
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/Open_to_Work-16A34A?style=flat-square&logo=checkmarx&logoColor=white" alt="Open to Work" />
+    <a href="https://www.trongajtt.com">
+      <img src="https://img.shields.io/badge/Website-1A56DB?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" />
+    </a>
+    <a href="https://www.trongajtt.com/cv">
+      <img src="https://img.shields.io/badge/Resume_%2F_CV-0F172A?style=flat-square&logo=readthedocs&logoColor=white" alt="CV" />
+    </a>
+    <a href="https://linkedin.com/in/trongajtt">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:trong.ajtt.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-trong.ajtt.dev%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
-
-
-## 👤 About me
-- I’m TrongAJTT (real name: Dang Van Trong), a junior developer starting my journey in programming.
-- You can contact me at [trong.ajtt.dev@gmail.com](mailto:trong.ajtt.dev@gmail.com).
-- I'm currently working on Imify, Heta and P2Lan.
-- I’m currently learning React, Go.
-- I can program: Web Frontend (React), Web Backend (Java Spring), Web Extension, Android (Native - Java) and Flutter.
-
-## ✨ You might be interested in
-- <img src="https://cdn.trongajtt.com/apps/imify/icon.webp" alt="Imify" width="16" height="16" style="vertical-align: middle;"> [Imify](https://github.com/TrongAJTT/imify) is a privacy-first, 100% client-side browser extension that allows users to seamlessly convert, resize, and format images directly from the browser.
-- <img src="https://cdn.trongajtt.com/apps/p2lan/icon.webp" alt="Imify" width="16" height="16" style="vertical-align: middle;"> [P2Lan](https://github.com/TrongAJTT/p2lan) is a simple cross-platform file transfer application that enables direct peer-to-peer communication over local networks. Built with Flutter for Windows and Android platforms.
-- <img src="https://cdn.trongajtt.com/apps/heta/icon.webp" alt="Imify" width="16" height="16" style="vertical-align: middle;"> [Heta](https://github.com/TrongAJTT/imify) is a simple browser extension for managing tabs and URLs: batch creation, URL extraction, domain blocking, redirects, and profile-based configuration management.
-- <img src="https://cdn.trongajtt.com/apps/cemol/icon.webp" alt="Imify" width="16" height="16" style="vertical-align: middle;"> [Cemol](https://www.trongajtt.com/apps/cemol) is the definitive platform for enthusiasts who want to organize, discover, and share their journey through movies, literature, audio, and visual storytelling in one sophisticated space.
-- <img src="https://cdn.trongajtt.com/apps/random-please/icon.webp" alt="Imify" width="16" height="16" style="vertical-align: middle;"> [Random Please](https://github.com/TrongAJTT/random-please) is a comprehensive collection of random generators and utilities for daily use – from secure password generation to mathematical calculations and unit conversions.
 
 ---
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### About Me
 
-### 📱 Frontend & Mobile
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- **Education & Experience:** B.Eng. in Software Engineering (**Ton Duc Thang University, 2026**); former **Flutter Developer Intern at [Apps Cyclone](https://www.appscyclone.com/)**.
+- **Target Roles:** Open to **Frontend / Full-Stack Web** (`Next.js`, `TypeScript`, `Express.js`, `Go`) and **Flutter Cross-Platform** opportunities.
+- **What I Ship:** Published multiple privacy-first browser extensions and local-first apps on **Chrome Web Store**, **Microsoft Edge Add-ons**, and **Firefox Add-ons** with zero telemetry.
 
-### ⚙️ Backend & Database
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) 
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+---
 
-### ☁️ Cloud, Hosting & BaaS
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
-![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
+### Featured Projects
 
-### 🛠 Tools & DevOps
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
-![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+| Project | Engineering Highlights | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| <img src="https://cdn.trongajtt.com/apps/browse-assist/icon.webp" width="18" height="18" align="absmiddle" /> **Browse Assist** | Open-source browsing PowerToys featuring fluid gestures, smart media controls, and per-site rules. Shipped on Chrome, Edge & Firefox. | `TypeScript`, `React`, `Plasmo`, `MV3` | [GitHub](https://github.com/TrongAJTT/browse-assist) · [Overview](https://www.trongajtt.com/apps/browse-assist) |
+| <img src="https://cdn.trongajtt.com/apps/scripta/logo.webp" width="18" height="18" align="absmiddle" /> **Scripta** | Offline-first PWA text & code editor using CodeMirror 6 compartments, File System Access API, IndexedDB recovery, and live Markdown/Mermaid/Pyodide WASM previews. | `React 19`, `TypeScript`, `CodeMirror 6`, `WASM` | [GitHub](https://github.com/TrongAJTT/scripta) · [Live App](https://scripta.trongajtt.com) |
+| <img src="https://cdn.trongajtt.com/apps/imify/icon.webp" width="18" height="18" align="absmiddle" /> **Imify** | 100% client-side image converter, resizer, and formatter powered by WebAssembly inside Manifest V3. Shipped on Chrome, Edge & Firefox. | `React`, `TypeScript`, `Plasmo`, `WASM` | [GitHub](https://github.com/TrongAJTT/imify) · [Overview](https://www.trongajtt.com/apps/imify) |
+| <img src="https://cdn.trongajtt.com/apps/quiet-please/icon.webp" width="18" height="18" align="absmiddle" /> **Quiet Please** | Smart tab muter with offscreen audio hardware detection (speakers vs headphones), URL rules, context profiles, and 9-language i18n. Shipped on Chrome, Edge & Firefox. | `TypeScript`, `React`, `Plasmo`, `MV3` | [GitHub](https://github.com/TrongAJTT/quiet-please) · [Overview](https://www.trongajtt.com/apps/quiet-please) |
+| <img src="https://cdn.trongajtt.com/apps/heta/icon.webp" width="18" height="18" align="absmiddle" /> **Heta** | Browser productivity extension for batch URL generation, extraction, domain blocking, redirects, and environment profiles. Shipped on Chrome Web Store. | `React`, `Vite`, `MV3` | [GitHub](https://github.com/TrongAJTT/heta) · [Overview](https://www.trongajtt.com/apps/heta) |
+| <img src="https://cdn.trongajtt.com/apps/random-please/icon.webp" width="18" height="18" align="absmiddle" /> **Random Please** | Cross-platform randomization toolkit for numbers, text, colors, and test data across desktop, mobile, and web. | `Flutter`, `Dart` | [GitHub](https://github.com/TrongAJTT/random-please) · [Web App](https://www.trongajtt.com/apps/random-please/live) |
+| <img src="https://cdn.trongajtt.com/apps/p2lan/icon.webp" width="18" height="18" align="absmiddle" /> **P2Lan** *(Discontinued)* | Direct peer-to-peer local network (LAN) file transfer across Windows and Android with zero server dependency. | `Flutter`, `Dart` | [GitHub](https://github.com/TrongAJTT/p2lan) · [Overview](https://www.trongajtt.com/apps/p2lan) |
+| <img src="https://cdn.trongajtt.com/apps/unit-converters/icon.webp" width="18" height="18" align="absmiddle" /> **Unit Converters** *(Discontinued)* | Cross-platform measurement converter with multi-card grid, comparison tables, and customizable pinned units. | `Flutter`, `Dart` | [GitHub](https://github.com/TrongAJTT/unit-converters) · [Web App](https://www.trongajtt.com/apps/unit-converters/live) |
+
+---
+
+### Tech Stack
+
+- **Languages:** `TypeScript` · `Dart` · `Go` · `Java`
+- **Frontend & Extensions:** `Next.js` · `React` · `Tailwind CSS` · `Plasmo (Manifest V3)` · `CodeMirror 6`
+- **Mobile & Desktop:** `Flutter` (Android, Windows, Web)
+- **Backend & Data:** `Express.js` · `Spring Boot` · `PostgreSQL` · `MySQL` · `Redis` · `SQLite`
+- **Infra & Tooling:** `Docker` · `Cloudflare` · `Vercel` · `Firebase` · `Git` · `pnpm`
+
+---
+
+### GitHub Activity
+
+<div align="center">
+  <a href="https://github.com/TrongAJTT">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TrongAJTT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=TrongAJTT&show_icons=true&theme=default&hide_border=true" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api?username=TrongAJTT&show_icons=true&theme=tokyonight&hide_border=true" alt="TrongAJTT's GitHub Stats" />
+    </picture>
+  </a>
+  <a href="https://github.com/TrongAJTT?tab=repositories">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongAJTT&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongAJTT&layout=compact&theme=default&hide_border=true" />
+      <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrongAJTT&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    </picture>
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <p><strong>Open to Frontend / Full-Stack Web and Flutter opportunities — let's connect!</strong></p>
+  <p>
+    <a href="https://www.trongajtt.com">Website</a> ·
+    <a href="https://www.trongajtt.com/cv">Resume / CV</a> ·
+    <a href="https://linkedin.com/in/trongajtt">LinkedIn</a> ·
+    <a href="mailto:trong.ajtt.dev@gmail.com">Email</a>
+  </p>
+</div>
